@@ -1,3 +1,15 @@
 [submodule "Angular-Front"]
 	path = Angular-Front
 	url = https://github.com/AlexanderDP0/Angular-Front.git
+[submodule "bacheo-tendido-front-end"]
+	path = bacheo-tendido-front-end
+	url = https://github.com/afuhsl/bacheo-tendido-front-end.git
+[submodule "BarAKA"]
+	path = BarAKA
+	url = https://github.com/afuhsl/BarAKA.git
+[submodule "BayMind"]
+	path = BayMind
+	url = https://github.com/DanielLopezZermeno/BayMind.git
+[submodule "Cinetflix"]
+	path = Cinetflix
+	url = https://github.com/AlexanderDP0/Cinetflix.git
