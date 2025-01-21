@@ -13,3 +13,12 @@
 [submodule "Cinetflix"]
 	path = Cinetflix
 	url = https://github.com/AlexanderDP0/Cinetflix.git
+[submodule "classroom-api"]
+	path = classroom-api
+	url = https://github.com/AlexanderProps/classroom-api.git
+[submodule "classroom-web"]
+	path = classroom-web
+	url = https://github.com/AlexanderDP0/classroom-web.git
+[submodule "SkillForge_Front"]
+	path = SkillForge_Front
+	url = https://github.com/AlexanderDP0/SkillForge_Front.git
