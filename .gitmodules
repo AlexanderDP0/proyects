@@ -1,0 +1,3 @@
+[submodule "Angular-Front"]
+	path = Angular-Front
+	url = https://github.com/AlexanderDP0/Angular-Front.git
